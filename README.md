@@ -2,14 +2,7 @@ Contributor Centric OSM Quality
 ===============================
 
 
-ISCRAM 2017 Submission (Reworking the CHI Work)
+ISCRAM 2017 Submission (Reworking the CHI OSM Quailty Paper)
 
 
-
-
-
-Metrics
--------
-**Question** Are these metrics interdependent?
-Yes, they are, but it depends on what the 
-
+See this document: [https://docs.google.com/a/colorado.edu/document/d/1Jq79r8NhjEqiOQwSmZjBz5cAqO4a6TIc6z_FggUiEeU/edit?usp=sharing](https://docs.google.com/a/colorado.edu/document/d/1Jq79r8NhjEqiOQwSmZjBz5cAqO4a6TIc6z_FggUiEeU/edit?usp=sharing)
