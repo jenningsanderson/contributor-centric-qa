@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "quadkey": "030223131220", "named_edited_km": 665.27, "named_new_km": 50.1749, "total_edited_km": 1410.72, "total_km": 1652.02, "total_new_km": 241.294, "unnamed_edited_km": 745.453, "unnamed_new_km": 191.119, "total_buildings": 12350, "total_new_buildings": 7178, "total_edited_buildings": 5172, "new_buildings_more": 3003, "new_buildings_yes": 4175, "edited_buildings_more": 3876, "edited_buildings_yes": 1296, "coordinates": "[[[-79.453125, 43.64402584769949], [-79.453125, 43.707593504052944], [-79.365234375, 43.707593504052944], [-79.365234375, 43.64402584769949], [-79.453125, 43.64402584769949]]]", "type": "Polygon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.453125, 43.644025847699488 ], [ -79.365234375, 43.644025847699488 ], [ -79.365234375, 43.707593504052944 ], [ -79.453125, 43.707593504052944 ], [ -79.453125, 43.644025847699488 ] ] ] } }
+]
+}
