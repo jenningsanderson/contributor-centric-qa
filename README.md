@@ -3,6 +3,10 @@ Contributor Centric OSM Quality
 
 ISCRAM 2017 Submission (Reworking the CHI OSM Quailty Paper)
 
+The notebooks in this repository describe and execute each of the contributor-centric intrinsic quality metrics that this paper discusses.
+
+### Each notebook is viewable here on GitHub with all the graphs embedded.
+
 See this document for more actionable items regarding the re-write: [https://docs.google.com/a/colorado.edu/document/d/1Jq79r8NhjEqiOQwSmZjBz5cAqO4a6TIc6z_FggUiEeU/edit?usp=sharing](https://docs.google.com/a/colorado.edu/document/d/1Jq79r8NhjEqiOQwSmZjBz5cAqO4a6TIc6z_FggUiEeU/edit?usp=sharing)
 
 
