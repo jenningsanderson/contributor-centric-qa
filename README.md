@@ -9,14 +9,14 @@ The notebooks in this repository describe and execute each of the contributor-ce
 
 ## Metric 1: Density and Number of Contributors 
  - `Metric - Contributor Density Per Sq. Km.ipynb` Notebook goes through each of the study tiles for Density
- - `Users Active Overtime` directory has results for contributors active on each tile overtime.
+ - Users Active Overtime is calculated in each tile specific notebook.
 
 ## Metric 2: Level of Experience per User
- - The `User Experience` directory includes a notebook for each tile, discussing the level of user experience on each.
+ - Each Tile Specific Notebook has this information
 
 
 ## Metric 3: User Geographic Focus
-
+ - Each Tile Specific Notebook has this information
 
 
 ## Metric 4: Tile Maturity (Stage of Growth)
